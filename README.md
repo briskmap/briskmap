@@ -1,5 +1,2 @@
-# Brisk Map!
-```python
-
-Bob the builder!
-```
+# I'm briskmap!
+I do web development, modeling, and unity game development!
